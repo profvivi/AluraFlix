@@ -1,0 +1,14 @@
+/*variaveis*/
+:root {
+    --preto: #000;
+    --branco: #fff;
+    --lilas-claro: #f8abee;
+}
+/*corpo da página*/
+body {
+    background-color: var(--lilas-claro);
+}
+
+header {
+    background-color: var(--branco);
+}
