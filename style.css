@@ -8,6 +8,7 @@
 body {
     color: var(--branco);
     background: var(--preto);
+    margin: 0px;
 }
 
 header {
