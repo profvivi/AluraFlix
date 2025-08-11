@@ -4,16 +4,19 @@
     --preto: #000;
     --branco: #fff;
     --lilas-claro: #f8abee;
+    --azul-médio: #2f4dd1;
 }
 /*corpo da página*/
 body {
     color: var(--branco);/*cor da fonte*/
     background: var(--preto);/*cor de fundo*/
-    margin: 0px; /* não terá margin padrão*/
+    margin: 0px; /* não terá margem padrão*/
 }
 
 header {
     border: solid 2px;
     border-color: var(--branco);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
+    font-size: 32px;/*tamanho da fonte*/
+    color: rgb(42, 122, 228);
 }
