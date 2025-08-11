@@ -1,3 +1,4 @@
+/**/
 /*variaveis*/
 :root {
     --preto: #000;
@@ -6,12 +7,13 @@
 }
 /*corpo da página*/
 body {
-    color: var(--branco);
-    background: var(--preto);
-    margin: 0px;
+    color: var(--branco);/*cor da fonte*/
+    background: var(--preto);/*cor de fundo*/
+    margin: 0px; /* não terá margin padrão*/
 }
 
 header {
     border: solid 2px;
-    border-color: var(--branco);
+    border-color: var(--branco);/*cor da borda*/
+    padding: 20px;/*espaçamento interno*/
 }
