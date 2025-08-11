@@ -4,6 +4,7 @@
     --branco: #fff;
     --lilas-claro: #eb76db;
     --azul-médio: #2f4dd1;
+    --amarelo:#cfe80d;
 }
 /*corpo da página*/
 body {
@@ -17,7 +18,7 @@ header {
     border-color: var(--branco);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
-    color: var(--azul-médio);/*cor da fonte*/
+    color: var(--amarelo);/*cor da fonte*/
 }
 
 section {
