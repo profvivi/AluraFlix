@@ -11,5 +11,5 @@ body {
 }
 
 header {
-    background-color: var(--branco);
+    border: solid 2px white;
 }
