@@ -25,4 +25,6 @@ section {
     background-color: var(--lilas-claro);/*cor de fundo*/
     padding-bottom: 80px;/*espaçamento inferior*/
     padding-top: 80px;/*espaçamento superior*/
+    display: flex;
+    justify-content: center;
 }
