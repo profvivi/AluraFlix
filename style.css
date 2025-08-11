@@ -18,11 +18,11 @@ header {
     border-color: var(--branco);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
-    color: var(--azul-médio);
+    color: var(--azul-médio);/*cor da fonte*/
 }
 
 section {
-    background-color: var(--lilas-claro);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    background-color: var(--lilas-claro);/*cor de fundo*/
+    padding-bottom: 80px;/*espaçamento inferior*/
+    padding-top: 80px;/*espaçamento superior*/
 }
