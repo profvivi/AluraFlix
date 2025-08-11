@@ -20,3 +20,7 @@ header {
     font-size: 32px;/*tamanho da fonte*/
     color: var(--azul-médio);
 }
+
+section {
+    background: var(--lilas-claro);
+}
