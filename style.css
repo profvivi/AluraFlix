@@ -18,5 +18,5 @@ header {
     border-color: var(--branco);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
-    color: rgb(42, 122, 228);
+    color: var(--azul-médio);
 }
