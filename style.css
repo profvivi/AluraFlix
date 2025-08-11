@@ -6,7 +6,8 @@
 }
 /*corpo da página*/
 body {
-    background-color: var(--lilas-claro);
+    color: var(--branco);
+    background: var(--preto);
 }
 
 header {
