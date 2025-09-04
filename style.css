@@ -21,10 +21,18 @@ header {
     color: var(--amarelo);/*cor da fonte*/
 }
 
-
-
-div {
+.chamada-texto {
+    background-color: var(--amarelo);
+    color: var(--preto);
     margin-right: 20px;/*margem a direita*/
+}
+
+.chamada {
+    background: rgb(184, 156, 213);
+     padding-bottom: 80px;/*espaçamento inferior*/
+    padding-top: 80px;/*espaçamento superior*/
+    display: flex;/*alterar a disposição*/
+    justify-content: center;/* justificado no centro*/
 }
 
 h1 {
@@ -37,20 +45,6 @@ p {
     font-size: 1rem;
     text-align: center;
     padding-top: 0px;
-}
-
-.chamada-texto {
-    background-color: var(--amarelo);
-    color: var(--preto);
-    margin-right: 20px;
-}
-
-.chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
 }
 
 img {
