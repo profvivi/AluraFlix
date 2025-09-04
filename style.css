@@ -55,6 +55,7 @@ img {
 
 .recomendacoes {
     background-color: var(--lilas-claro);
+    margin-right: 20px;/*margem a direita*/
 }
 .outras-recomendacoes {
     background-color: var(--amarelo);
