@@ -34,15 +34,15 @@ div {
 }
 
 h1 {
-font-size: 1.5rem;
-text-align: center;
-padding-top: 30px;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 30px;
 }
 
 p {
-font-size: 1rem;
-text-align: center;
-padding-top: 0px;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 0px;
 }
 
 .chamada-texto {
@@ -52,16 +52,16 @@ padding-top: 0px;
 }
 
 .chamada {
-background: rgb(184, 156, 213);
-padding-bottom: 80px;
-padding-top: 80px;
-display: flex;
-justify-content: center;
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 img {
-width: 300px;
-height: 200px;
+    width: 300px;
+    height: 200px;
 }
 
 
@@ -70,13 +70,13 @@ height: 200px;
 }
 .outras-recomendacoes {
     background-color: var(--amarelo);
-display: flex;
-overflow-x: auto;
-gap: 20px;
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
 }
 
 h2 {
-margin-left: 30px;
+    margin-left: 30px;
 }
 
 footer {
