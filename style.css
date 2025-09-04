@@ -76,7 +76,7 @@ margin-left: 30px;
 }
 
 .texto {
-    background-color: var(--preto);
+    color: var(--preto);
 }
 
 .principal {
