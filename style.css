@@ -45,22 +45,13 @@ text-align: center;
 padding-top: 0px;
 }
 
-.chamada-texto {
-margin-right: 20px;
-}
 
-.chamada {
-background: rgb(184, 156, 213);
-padding-bottom: 80px;
-padding-top: 80px;
-display: flex;
-justify-content: center;
-}
 
 img {
 width: 300px;
 height: 200px;
 }
+
 
 .recomendacoes {
     background-color: var(--lilas-claro);
