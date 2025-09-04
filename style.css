@@ -55,13 +55,14 @@ img {
 
 .recomendacoes {
     background-color: var(--lilas-claro);
-    margin-left: 20px;/*margem a direita*/
+   
 }
 .outras-recomendacoes {
     background-color: var(--amarelo);
     display: flex;
     overflow-x: auto;
     gap: 20px;
+     margin-left: 20px;/*margem a direita*/
 }
 
 h2 {
