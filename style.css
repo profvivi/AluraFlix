@@ -62,6 +62,9 @@ width: 300px;
 height: 200px;
 }
 
+.recomendacoes {
+    background-color: var(--lilas-claro);
+}
 .outras-recomendacoes {
 display: flex;
 overflow-x: auto;
