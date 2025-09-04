@@ -45,11 +45,11 @@ text-align: center;
 padding-top: 0px;
 }
 
-texto {
+.chamada-texto {
 margin-right: 20px;
 }
 
-.principal {
+.chamada {
 background: rgb(184, 156, 213);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -76,7 +76,13 @@ h2 {
 margin-left: 30px;
 }
 
+.texto {
+    color: var(--preto);
+}
 
+.principal {
+    background-color: var(--amarelo);
+}
 
 footer {
     color: var(--branco);
