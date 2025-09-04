@@ -47,7 +47,7 @@ padding-top: 0px;
 
 .chamada-texto {
     background-color: var(--amarelo);
-    color: var(--branco);
+    color: var(--preto);
     margin-right: 20px;
 }
 
@@ -69,6 +69,7 @@ height: 200px;
     background-color: var(--lilas-claro);
 }
 .outras-recomendacoes {
+    background-color: var(--amarelo);
 display: flex;
 overflow-x: auto;
 gap: 20px;
