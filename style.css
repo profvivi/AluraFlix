@@ -21,13 +21,7 @@ header {
     color: var(--amarelo);/*cor da fonte*/
 }
 
-section {
-    background-color: var(--lilas-claro);/*cor de fundo*/
-    padding-bottom: 80px;/*espaçamento inferior*/
-    padding-top: 80px;/*espaçamento superior*/
-    display: flex;/*alterar a disposição*/
-    justify-content: center;/* justificado no centro*/
-}
+
 
 div {
     margin-right: 20px;/*margem a direita*/
