@@ -1,11 +1,11 @@
 /*variaveis*/
-:root {
+/*:root {
     --preto: #000;
     --branco: #fff;
     --lilas-claro: #eb76db;
     --azul-médio: #2f4dd1;
     --amarelo:#cfe80d;
-}
+}*/
 /*corpo da página*/
 body {
     color: var(--branco);/*cor da fonte*/
