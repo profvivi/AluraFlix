@@ -28,7 +28,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: /*rgb(184, 156, 213);*/
      padding-bottom: 80px;/*espaçamento inferior*/
     padding-top: 80px;/*espaçamento superior*/
     display: flex;/*alterar a disposição*/
